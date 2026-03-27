@@ -1,0 +1,101 @@
+[
+  {
+    "name": "ps_l",
+    "value": "1",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": true,
+    "expiry": 1792572156
+  },
+  {
+    "name": "datr",
+    "value": "yyLJaPoGl2NYGNokTeq9KgJ_",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": true,
+    "expiry": 1792572108
+  },
+  {
+    "name": "fr",
+    "value": "1WKfQtnDZrSSNscoq.AWfhSaAbIop1F3S-vYzFsDHTZ_arYVHVhIIMCW6byGon_6A4Ypc.BpX5Sj..AAA.0.0.BpX5Sj.AWeVOZLQxXp3fbgeoxqo2hc9a1k",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": true,
+    "expiry": 1775647652
+  },
+  {
+    "name": "i_user",
+    "value": "61580666980344",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "expiry": 1796976768
+  },
+  {
+    "name": "xs",
+    "value": "25%3ALvPllIgYe_pRxw%3A2%3A1765356824%3A-1%3A-1%3A%3AAcwAU5FKu_yscxsj2Zb8VTB4i-c9SbGmCm4v_6Turg",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": true,
+    "expiry": 1799407652
+  },
+  {
+    "name": "c_user",
+    "value": "100005524058527",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "expiry": 1799407652
+  },
+  {
+    "name": "dpr",
+    "value": "0.800000011920929",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "expiry": 1768476453
+  },
+  {
+    "name": "oo",
+    "value": "v1",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": true,
+    "expiry": 1801574710
+  },
+  {
+    "name": "ps_n",
+    "value": "1",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": true,
+    "expiry": 1792572156
+  },
+  {
+    "name": "sb",
+    "value": "ziLJaLFrAN_yQK_YbmoI3yNl",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": true,
+    "expiry": 1799916826
+  },
+  {
+    "name": "wd",
+    "value": "1350x2176",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "expiry": 1768476453
+  }
+]
